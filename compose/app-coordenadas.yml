@@ -1,0 +1,15 @@
+services:
+  app-coordernadas:
+    image: app-coordenadas:0.0.16
+    ports:
+      - "3000:3000"
+    networks:
+      - coordernadas-network
+    restart: always
+
+networks:
+  coordernadas-network:
+    driver: bridge
+
+#    NOTALA VERSION DE LA IMAGEN PUEDE VARIAR DEPENDIENDO DE LA IMAGEN CONSTRUIDA
+#    O ESTABLE DEPENDIENDO DE LA VERSION DE PRODUCCION O LA VERSION DESIGNADA POR EL DESARROLLADOR
