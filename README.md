@@ -1,6 +1,6 @@
 # Link of cocumentation 
 
-this link of documentacion  (https://docs.google.com/document/d/15prVqqFN1NTDjJZg5lh1EhmRAzjG86JY/edit?usp=sharing&ouid=107250702341538891937&rtpof=true&sd=true )
+This link of documentacion  (https://docs.google.com/document/d/15prVqqFN1NTDjJZg5lh1EhmRAzjG86JY/edit?usp=sharing&ouid=107250702341538891937&rtpof=true&sd=true )
 
 # Getting Started with Create React App
 
